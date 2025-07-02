@@ -1,3 +1,7 @@
+
+-- Please check out the other scripts.
+-- there's one with more comments, and one with all comments and empty lines removed
+
 -- Script Config
 -- I use this to debug, and to easily disable saving/loading.
 local canUseDataStore = script:GetAttribute("UseDataStore")
