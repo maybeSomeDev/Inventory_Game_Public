@@ -11,7 +11,7 @@ the game is made of 3 main scripts
 
 # Inventory Features
 - Supports Mobile/PC devices
-- inventory saves/loads 
+- Inventory saves/loads 
 ------
 - Pick up items
 - Select items ( using keyboard top row numbers ) 
